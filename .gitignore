@@ -44,3 +44,9 @@ Thumbs.db
 .github/instructions/nx.instructions.md
 
 .angular
+
+# Secrets
+.secrets/
+*.pem
+.env
+.env.local
